@@ -934,7 +934,7 @@ Pada dasarnya politik kekerasan lebih merupakan ekspresi dari melebarnya kekuasa
 
 Dalam kasus-kasus tertentu, kecenderungan penyiksaan dalam penyidikan bisa sedikit banyak terkait dengan upaya penyidik untuk mencari jalan pintas mengorek ketcrangan tersangka. Kekerasan
 
-demikian berlaku umum untuk semua tindak pelanggaran hukum. Polisi masih melihat KUHAP dalam kacamata HIR (Hukum Acara Pidana peninggalan Belanda). yaitu masih melihat alat bukti "keterangan terdakwa" scbagai "pengakuan terdakwa. Persepsi keliru itu mendorong polisi untuk mendapatkan pengakuan dari terdakwa, vaitu apakah ia bersalah atau tidak dalam suatu tindak pidana. Polisi akan berusaha keras memperoleh pengakuan tersangka dengan cara apapun, termasuk menyiksa tersangka Kecenderungan polisi melakukan penyiksaan bisa dikatakan mungkin sebagai sisa-sisa peninggalan massa HIR.
+demikian berlaku umum untuk semua tindak pelanggaran hukum. Polisi masih melihat KUHAP dalam kacamata HIR (Hukum Acara Pidana peninggalan Belanda). yaitu masih melihat alat bukti "keterangan terdakwa" scbagai "pengakuan terdakwa. Persepsi keliru itu mendorong polisi untuk mendapatkan pengakuan dari terdakwa, vaitu apakah ia bersalah atau tidak dalam suatu tindak pidana. Polisi akan berusaha keras memperoleh pengakuan tersangka dengan cara apapun, termasuk menyiksa tersangka Kecenderungan polisi melakukan penyiksaan bisa dikatakan mungkin sebagai sisa-sisa peninggalan massa HIR.[1](#n-v-01){#r-v-01 epub:type="noteref"}
 
 Padahal "keterangan terdakwa" dan "pengakuan terdakwa" merupakan dua hal yang sangat berbeda. Perubahan pengertian ini harus dipatrikan di dalam kesadaran polisi dalam prakteknya. ketidakmampuan dan ketidakmengertian polisi untuk membedakan bahwa pengertian teknis hukum tersebut merupakan salah satu latar belakang penyiksaan tahanan atau tersangka oleh polisi.
 
@@ -948,7 +948,7 @@ Kendati dalam kasus Judi Susanto dan kawan-kawan, letak persolannya bukan pada k
 
 Integrasi polisi ke dalam ABRI telah memberi pengaruh tersendiri dalam cara-cara menangani masalah hukum. Polisi kemudian cenderung bertindak seperti cara-cara militer. Padahal ada perbedaan mendasar diantara keduanya. Orientasi bertindak militer itu menghancurkan, merusak, dan membunuh. Sedangkan konsep bertindak polisi adalah melindungi masyarakat. Hal ini telah sedikit banyak menjadi kendala serius pengembangan profesionalisme polisi dalam merespon perkembangan masyarakat.
 
-Memisahkan polisi dari ABRI adalah langkah yang tepat, guna mengembalikan tugas polisi dari pelayan kekuasaan menjadi pelayan masyarakat. Kendati begitu masih membutuhkan waktu panjang guna melucuti kultur kekuasaan dan kekerasan yang telah melekat dalam tugas polisi. Ada pendapat di kalangan masyarakat bahwa penggunaan kekerasan oleh polisi (the used of force) dianggap sebagai pengecualian (execeptional). Namun bagi polisi itu sendiri, penggunaan kekerasan dikatagorikan sebagai functional. Artinya, polisi tidak bisa bekerja tanpa menggunakan kekerasan. Schingga penyidikan atas tersangka pelaku kejahatan seolah-olah harus dilakukan dengan kekerasan.
+Memisahkan polisi dari ABRI adalah langkah yang tepat, guna mengembalikan tugas polisi dari pelayan kekuasaan menjadi pelayan masyarakat. Kendati begitu masih membutuhkan waktu panjang guna melucuti kultur kekuasaan dan kekerasan yang telah melekat dalam tugas polisi. Ada pendapat di kalangan masyarakat bahwa penggunaan kekerasan oleh polisi (the used of force) dianggap sebagai pengecualian (execeptional). Namun bagi polisi itu sendiri, penggunaan kekerasan dikatagorikan sebagai functional. Artinya, polisi tidak bisa bekerja tanpa menggunakan kekerasan. Schingga penyidikan atas tersangka pelaku kejahatan seolah-olah harus dilakukan dengan kekerasan.[3](#n-v-03){#r-v-03 epub:type="noteref"}
 
 Peningkatan pengetahuan polisi tentang ilmu hukum, metoda dan tehnik penyidikan tanpa kekerasan menjadi bagian penting guna meningkatkan profesionalisme polisi secara orang per scorangan. Peningkatan pengetahun hukum terutama harus ditujukan kepada polisi yang berkaitan dengan tugas penyidikan tentang hak-hak tersangka. Polisi juga harus dididik untuk mengembalikan cara berpikir polisi bahwa KUHAP dan polisi adalah alat pelindung hak-hak tersangka. Di sini polisi seringkali menangkap tanpa surat penangkapan. Polisi kita juga masih harus diberi pemahaman tentang diskresi. Dia harus mengetahui kapan bisa menahan atau tidak menahan seseorang, atau meneruskan atau tidak meneruskan ke pengadilan.
 
@@ -986,12 +986,11 @@ Kampanye anti kekerasan hasus terus menerus diupayakan di berbagai lapisan masya
 
 ## Catatan
 
+[1]{#n-v-01} Pendapat demikan diutarakan oleh Harkristuti Harkrisnowo SH, MA PhD, staf pengajar Bagian Hukum Pidana Faicultas Hukum UI, d&i Kampus FHUI, 7 Agustus 1996. [↩](#r-v-01){epub:type="backlink"}
+
+
 [2]{#n-v-02} Menurut KUHAP pasal 184, alat-alat bukti adalah: a. keterangan saksi; b. keterangan ahli; c. surat; d petunjuk; e. keterangan terdakwa. [↩](#r-v-02){epub:type="backlink"}
 
+[3]{#n-v-03} Pendapat demikian diantaranya disampaikan oleh Prof Dr. Satjipto Rahardjo SH dalam suatu wawancara di Semarang, 13 Agustus 1996. [↩](#r-v-03){epub:type="backlink"}
+
 [4]{#n-v-04} Pendapat ini permah diutarakan DR. Todung Mulya Lubis dalam Kompas, 23 Oktober 1996. [↩](#r-v-04){epub:type="backlink"}
-
-## Catatan tanpa penanda
-
-[–]{#n-v-01} Pendapat demikan diutarakan oleh Harkristuti Harkrisnowo SH, MA PhD, staf pengajar Bagian Hukum Pidana Faicultas Hukum UI, d&i Kampus FHUI, 7 Agustus 1996.
-
-[3]{#n-v-03} Pendapat demikian diantaranya disampaikan oleh Prof Dr. Satjipto Rahardjo SH dalam suatu wawancara di Semarang, 13 Agustus 1996.

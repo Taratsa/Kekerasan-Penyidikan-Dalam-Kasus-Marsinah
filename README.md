@@ -31,7 +31,7 @@ Marker and note are linked in both directions with the same suffix:
     teks[3](#n-i-03){#r-i-03 epub:type="noteref"}
     [3]{#n-i-03} Isi catatan. [↩](#r-i-03){epub:type="backlink"}
 
-A note whose marker the OCR lost sits under `## Catatan tanpa penanda` without a link (nothing is dropped).
+If the OCR lost a note's marker, the note may sit under `## Catatan tanpa penanda` without a link (nothing is dropped); at the moment all 60 notes are linked.
 The SE build renumbers linked notes by order of appearance and puts them on one `Catatan` page at the end of the book.
 Every marker needs a note with the same `n-…` id and the other way round; the SE build stops if they do not pair up.
 The note pairing rests on OCR text and layout, not on the scan images.
