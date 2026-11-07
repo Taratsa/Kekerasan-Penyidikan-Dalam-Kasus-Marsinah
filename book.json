@@ -99,7 +99,7 @@
     "subtitle": "Catatan bagi Revisi KUHAP",
     "author": "Tim Penulis YLBHI",
     "author_file_as": "Tim Penulis YLBHI",
-    "publisher": "Kolektif Taratsa",
+    "publisher": "Taratsa",
     "producer": {
       "name": "Kolektif Taratsa"
     },
@@ -211,6 +211,11 @@
         "code": "y-034",
         "reason": "Titik di dalam kata berasal dari hasil OCR atau singkatan nama; dipertahankan apa adanya."
       }
+    ],
+    "sources": [
+      "https://pustaka.taratsa.id/book/1266/"
     ]
-  }
+  },
+  "publisher": "Taratsa",
+  "source_url": "https://pustaka.taratsa.id/book/1266/"
 }

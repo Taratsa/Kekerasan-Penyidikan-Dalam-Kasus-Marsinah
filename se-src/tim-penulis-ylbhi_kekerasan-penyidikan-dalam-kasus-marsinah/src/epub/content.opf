@@ -6,8 +6,8 @@
 		<meta property="dcterms:modified">2026-11-07T09:31:05Z</meta>
 		<dc:rights>Hak cipta atas teks laporan berada pada Yayasan Lembaga Bantuan Hukum Indonesia (YLBHI) dan/atau pemegang hak masing-masing. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
-		<dc:publisher id="publisher">Kolektif Taratsa</dc:publisher>
-		<meta property="file-as" refines="#publisher">Kolektif Taratsa</meta>
+		<dc:publisher id="publisher">Taratsa</dc:publisher>
+		<meta property="file-as" refines="#publisher">Taratsa</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
@@ -47,6 +47,7 @@
 			&lt;p&gt;Laporan &lt;i&gt;Seri Laporan Kasus&lt;/i&gt; Yayasan Lembaga Bantuan Hukum Indonesia (YLBHI) yang memuat testimoni Judi Susanto dan para pekerjanya tentang penculikan, penyekapan, dan penyiksaan selama penyidikan kasus pembunuhan Marsinah, daftar pelanggaran hak tersangka menurut KUHAP, serta catatan bagi pembaruan KUHAP dari Bambang Widjojanto dan Trimoelja D. Soerjadi.&lt;/p&gt;
 		</dc:description>
 		<dc:language>id</dc:language>
+		<dc:source>https://pustaka.taratsa.id/book/1266/</dc:source>
 		<meta property="schema:wordCount">19893</meta>
 		<dc:creator id="author">Tim Penulis YLBHI</dc:creator>
 		<meta property="file-as" refines="#author">Tim Penulis YLBHI</meta>
