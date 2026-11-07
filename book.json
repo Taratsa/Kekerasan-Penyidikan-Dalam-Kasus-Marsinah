@@ -1,0 +1,216 @@
+{
+  "source_pdf": "Kekerasan Penyidikan Dalam Kasus Marsinah - Unknown.pdf",
+  "ocr": {
+    "server": "http://HOST:8020",
+    "mode": "ocr",
+    "dpi": 200,
+    "timeout_s": 300,
+    "retries": 3
+  },
+  "title": "Kekerasan Penyidikan dalam Kasus Marsinah: Catatan bagi Revisi KUHAP",
+  "author": "Tim Penulis YLBHI",
+  "lang": "id",
+  "epub_name": "Kekerasan Penyidikan Dalam Kasus Marsinah.epub",
+  "cover_page": 0,
+  "skip_pages": [
+    0,
+    48
+  ],
+  "front_matter": {
+    "heading": "Halaman Judul",
+    "lines": [],
+    "pages": [
+      1
+    ]
+  },
+  "chapters": [
+    [
+      2,
+      "Pengantar",
+      "Seri Laporan Kasus"
+    ],
+    [
+      4,
+      "I. Mengapa Harus Disiksa?",
+      null
+    ],
+    [
+      10,
+      "II. Testimoni",
+      null
+    ],
+    [
+      25,
+      "III. Pelanggaran Hak Tersangka",
+      null
+    ],
+    [
+      31,
+      "IV. Catatan bagi Pembaharuan KUHAP",
+      null
+    ],
+    [
+      42,
+      "V. Penutup",
+      null
+    ]
+  ],
+  "footer_patterns": [],
+  "typo_fixes": [
+    [
+      "L. MENGAPA HARUS DISIKSA?",
+      "I. MENGAPA HARUS DISIKSA?"
+    ],
+    [
+      "IIIL. PELANGGARAN",
+      "III. PELANGGARAN"
+    ],
+    [
+      "<table><tr><td>  </td><td rowspan=\"2\">O</td></tr><tr><td></td></tr></table>\n\n",
+      ""
+    ],
+    [
+      "Kekeraxan Penyidikan Dalam Kosus Marsinah",
+      "Kekerasan Penyidikan Dalam Kasus Marsinah"
+    ]
+  ],
+  "keep_joins": [],
+  "verify": {
+    "must_contain": [
+      "Marsinah",
+      "Judi Susanto",
+      "KUHAP",
+      "YLBHI"
+    ],
+    "must_not_contain": [
+      "IIIL.",
+      "L. MENGAPA",
+      "Kosus"
+    ]
+  },
+  "source": "book.md",
+  "corrections": {
+    "baseline": "book.ocr-original.md",
+    "enforce": true
+  },
+  "se": {
+    "work": "kekerasan-penyidikan-dalam-kasus-marsinah",
+    "title": "Kekerasan Penyidikan dalam Kasus Marsinah",
+    "subtitle": "Catatan bagi Revisi KUHAP",
+    "author": "Tim Penulis YLBHI",
+    "author_file_as": "Tim Penulis YLBHI",
+    "publisher": "Kolektif Taratsa",
+    "producer": {
+      "name": "Kolektif Taratsa"
+    },
+    "source_label": "pindaian PDF laporan Seri Laporan Kasus YLBHI, Desember 1995",
+    "rights": "Hak cipta atas teks laporan berada pada Yayasan Lembaga Bantuan Hukum Indonesia (YLBHI) dan/atau pemegang hak masing-masing. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).",
+    "subjects": [
+      [
+        "Torture",
+        "sh85136190"
+      ],
+      [
+        "Police brutality",
+        "sh95010616"
+      ],
+      [
+        "Confession (Law)",
+        "sh85030912"
+      ],
+      [
+        "Criminal procedure--Indonesia",
+        "sh2008101898"
+      ],
+      [
+        "Human rights--Indonesia",
+        "sh2008105905"
+      ]
+    ],
+    "abstract": "Laporan YLBHI tentang penyiksaan dalam penyidikan sembilan bekas terdakwa pembunuhan Marsinah, dengan testimoni para korban, pelanggaran hak tersangka, dan catatan bagi revisi KUHAP.",
+    "description_html": "<p>Laporan <i>Seri Laporan Kasus</i> Yayasan Lembaga Bantuan Hukum Indonesia (YLBHI) yang memuat testimoni Judi Susanto dan para pekerjanya tentang penculikan, penyekapan, dan penyiksaan selama penyidikan kasus pembunuhan Marsinah, daftar pelanggaran hak tersangka menurut KUHAP, serta catatan bagi pembaruan KUHAP dari Bambang Widjojanto dan Trimoelja D. Soerjadi.</p>",
+    "acronyms": [
+      "KUHAP",
+      "YLBHI",
+      "BAP"
+    ],
+    "name_titles": [
+      "SH"
+    ],
+    "production_notes": [
+      "Dua tabel Lampiran dipindai miring dan dibaca ulang dengan OCR diputar 180 derajat; isinya sebagian masih tidak terbaca dan dipertahankan apa adanya sesuai hasil OCR.",
+      "Tabel stempel perpustakaan pada halaman judul (Koleksi Buku Perpustakaan Divisi Informasi dan Dokumentasi) dipertahankan di halaman sumber sebagaimana terbaca OCR, termasuk salah baca.",
+      "Sampul sengaja dibuat sampul tipografi polos 1400 x 2100 (huruf League Spartan bawaan alat SE), bukan lukisan. Panduan sampul Standard Ebooks mensyaratkan lukisan cat minyak berwarna yang terbukti domain publik AS dan disetujui editor SE; edisi ini tidak memiliki karya seperti itu dan bukan rilis Standard Ebooks.",
+      "Subjek LCSH dipilih dari id.loc.gov (Torture, Police brutality, Confession (Law), Criminal procedure--Indonesia, Human rights--Indonesia); belum ditinjau editor.",
+      "Tanda baca dan awal paragraf yang tampak janggal bagi se lint (titik diikuti huruf kecil, paragraf terpotong halaman, kutipan) berasal dari hasil OCR atau naskah sumber. Karena pindaian tidak boleh diperiksa dengan penglihatan, teks tidak diubah; peringatan tinjau-manual didaftarkan di se-lint-ignore.xml dengan alasan masing-masing.",
+      "Catatan kaki di akhir halaman pindaian dipindahkan menjadi catatan akhir per bab (bagian Catatan). Hanya 16 catatan yang penandanya di teks terbaca jelas oleh OCR dan angkanya cocok dengan catatannya (halaman pindaian sama, nomor sama, unik); catatan itu ditautkan dua arah. 42 catatan lain kehilangan penandanya akibat OCR atau bernomor tidak terbaca, sehingga dipindahkan ke daftar Catatan tanpa penanda di akhir bab tanpa tautan; isinya tidak diubah dan tidak ada yang dibuang. Pada edisi SE, catatan bertaut dikumpulkan di halaman Catatan di akhir buku dan dinomori ulang menurut urutan kemunculan; daftar tanpa penanda tetap di akhir tiap bab.",
+      "Nomor butir daftar bernomor (mis. 1. sampai 9. pada tugas kepolisian) tetap sebagai paragraf biasa; sebuah daftar yang terpotong halaman pindaian digabung ke catatan 5 (daftar tugas kepolisian menurut UU No. 13 Tahun 1961)."
+    ],
+    "masthead": {
+      "sections": []
+    },
+    "released": "2026-11-07T09:31:05Z",
+    "lint_ignore": [
+      {
+        "file": "*.xhtml",
+        "code": "t-011",
+        "reason": "Tanda kutip penutup tanpa tanda baca di naskah hasil OCR; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "t-029",
+        "reason": "Titik diikuti huruf kecil berasal dari hasil OCR (kemungkinan koma terbaca titik) dan tidak dapat dipastikan tanpa pindaian; teks tidak diubah."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "t-057",
+        "reason": "Paragraf berawal huruf kecil karena terpotong batas halaman pindaian; tidak digabung karena paragraf sebelumnya berakhir dengan tanda baca atau berada di halaman lain."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "t-077",
+        "reason": "Tanda baca diikuti kutip pembuka tanpa spasi di hasil OCR; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-002",
+        "reason": "Tanda baca ganda dari hasil OCR; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-003",
+        "reason": "Paragraf tanpa tanda baca akhir: judul daftar isi, nomor halaman, serta paragraf terpotong batas halaman pindaian; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-005",
+        "reason": "Tanda baca diikuti huruf kecil dari hasil OCR; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-009",
+        "reason": "Paragraf berawal dengan kutip di naskah sumber (kutipan dan catatan kaki); dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-012",
+        "reason": "Kutipan bahasa Inggris dari sumber hukum asing dengan tanda baca asli; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-016",
+        "reason": "Titik berurutan dari hasil OCR atau tanda elipsis tercetak; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-030",
+        "reason": "Kutipan berawal huruf kecil di naskah sumber; dipertahankan apa adanya."
+      },
+      {
+        "file": "*.xhtml",
+        "code": "y-034",
+        "reason": "Titik di dalam kata berasal dari hasil OCR atau singkatan nama; dipertahankan apa adanya."
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+# Kekerasan Penyidikan dalam Kasus Marsinah: Catatan bagi Revisi KUHAP — EPUB source
+
+Laporan Seri Laporan Kasus YLBHI (Desember 1995), dibuat dari pindaian PDF (OCR via TurboOCR).
+
+## Build
+
+`book.md` is the hand-edited source (`book.json` `"source": "book.md"`). Edit it directly; it is never regenerated.
+
+    cd /Users/sf/Documents/workspaces/pdf-to-epub-turboocr
+    python3 pipeline.py "<path to this folder>" --steps build,verify,se
+
+Do not run the `ocr` or `images` steps for this book.
+
+## Outputs
+
+- `Kekerasan Penyidikan Dalam Kasus Marsinah.epub`: pandoc build
+- `Kekerasan Penyidikan Dalam Kasus Marsinah (SE).epub`: Standard Ebooks manual edition (`--steps se`), Indonesian, white-label
+- `verify.json`, `review.txt`: build checks
+
+## Hand-editable files
+
+- `book.md`: all text, including the endnotes
+- `se-imprint.md`, `se-colophon.md`, `se-license.md`: Keterangan Edisi, Kolofon and Lisensi pages of the SE edition
+
+## Endnotes
+
+The footnotes printed at the bottom of the scanned pages are endnotes at the end of each chapter (`## Catatan`).
+Marker and note are linked in both directions with the same suffix:
+
+    teks[3](#n-i-03){#r-i-03 epub:type="noteref"}
+    [3]{#n-i-03} Isi catatan. [↩](#r-i-03){epub:type="backlink"}
+
+A note whose marker the OCR lost sits under `## Catatan tanpa penanda` without a link (nothing is dropped).
+The SE build renumbers linked notes by order of appearance and puts them on one `Catatan` page at the end of the book.
+Every marker needs a note with the same `n-…` id and the other way round; the SE build stops if they do not pair up.
+The note pairing rests on OCR text and layout, not on the scan images.
+
+## Lineage OCR -> book.md
+
+`ocr/md/pNN.md` (raw OCR, not tracked) -> `book.ocr-original.md` (frozen baseline, with the footnote-to-endnote layout already applied) -> `book.md`.
+`corrections.json` logs every spelling correction from the baseline to `book.md` (SymSpell and manual edits, with the words kept as printed) and is written by `corrections.py` only.
+`python3 corrections.py check <this folder> --scan` replays it and must pass.
+The corrections were not compared against the scan images; they rest on SymSpell suggestions, the dictionaries and sentence context.
+
+## Source scan
+
+The PDF (`Kekerasan Penyidikan Dalam Kasus Marsinah - Unknown.pdf`) is not tracked; it is the input of the `ocr` step.
+
+## Rights
+
+The editorial contributions (OCR, proofreading, typesetting, EPUB structure) are dedicated to the public domain under CC0 1.0.
+The underlying report text remains with its rights holders; this edition claims no rights in it.
