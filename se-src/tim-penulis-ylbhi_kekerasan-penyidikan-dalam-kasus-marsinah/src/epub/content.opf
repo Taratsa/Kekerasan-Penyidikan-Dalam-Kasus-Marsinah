@@ -52,8 +52,8 @@
 		<dc:creator id="author">Tim Penulis YLBHI</dc:creator>
 		<meta property="file-as" refines="#author">Tim Penulis YLBHI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="producer-1">Kolektif Taratsa</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Kolektif Taratsa</meta>
+		<dc:contributor id="producer-1">Taratsa</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Taratsa</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 	</metadata>
 	<manifest>

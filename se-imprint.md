@@ -6,6 +6,6 @@ A line ending in two spaces or a backslash is a line break. Raw inline HTML is p
 for Standard Ebooks semantics). Optional placeholders, filled from book.json at build time if you type them:
 {title} {author} {producer} {source_label} {date} {iso} {license} -->
 
-Edisi digital ini disusun oleh Kolektif Taratsa dari pindaian PDF laporan Seri Laporan Kasus YLBHI, Desember 1995. Teks dibaca dengan OCR, lalu diperiksa dengan pemeriksa ejaan dan dikoreksi pada kesalahan OCR yang jelas.
+Edisi digital ini disusun oleh Taratsa dari pindaian PDF laporan Seri Laporan Kasus YLBHI, Desember 1995. Teks dibaca dengan OCR, lalu diperiksa dengan pemeriksa ejaan dan dikoreksi pada kesalahan OCR yang jelas.
 
 Hak cipta atas teks berada pada penulis dan/atau pemegang hak masing-masing; edisi ini tidak mengklaim hak atas isi tersebut. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.id). Keterangan lengkap ada di halaman [Lisensi](uncopyright.xhtml) pada akhir buku.

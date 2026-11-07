@@ -11,7 +11,7 @@ oleh
 <b epub:type="z3998:personal-name">Tim Penulis YLBHI</b>.
 
 Edisi digital ini disusun oleh  
-**Kolektif Taratsa**  
+**Taratsa**  
 dari pindaian PDF laporan Seri Laporan Kasus YLBHI, Desember 1995.
 
 Sampul menggunakan huruf  
