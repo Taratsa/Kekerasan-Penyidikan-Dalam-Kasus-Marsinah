@@ -21,6 +21,7 @@ Do not run the `ocr` or `images` steps for this book.
 ## Hand-editable files
 
 - `book.md`: all text, including the endnotes
+- `metadata.yaml`: EPUB metadata (publisher, source, producer, creator, rights, pinned identifier) for both editions
 - `se-imprint.md`, `se-colophon.md`, `se-license.md`: Keterangan Edisi, Kolofon and Lisensi pages of the SE edition
 
 ## Endnotes

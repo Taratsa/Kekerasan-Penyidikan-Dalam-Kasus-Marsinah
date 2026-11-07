@@ -1,0 +1,32 @@
+# EPUB metadata, hand-editable. Any key set here overrides the value generated from book.json.
+# Remove a key to fall back to the generated value. Rebuild with: pipeline.py <book> --steps build,verify
+# Keys: title, subtitle, creator, contributor, publisher, subject, description, rights, source, date,
+#       identifier, lang. Roles are MARC relators (aut, edt, trl, ill, trc, ...).
+
+# Pinned so readers keep reading position/annotations across rebuilds (a new random one is made
+# on every build otherwise). Do not change after publishing.
+identifier: "urn:uuid:c6f27b61-c854-4369-8d02-839f759cc16f"
+# Publication date of this edition (YYYY-MM-DD); without it the build timestamp is used.
+# date: 2026-01-01
+
+# OPF-only keys (injected after the build; pandoc has no field for them), as in the MasasilaM editions:
+#   first-publisher -> <meta property="schema:firstPublisher">  who first published the work
+#   first-published -> <meta property="schema:firstPublished">  year of first publication
+# first-publisher: ""
+# first-published: ""
+# publisher and source must be ONE string for the pandoc EPUB (a YAML list makes pandoc write an empty element);
+# join several publishers with ", ". The Standard Ebooks edition also accepts a list for source (one dc:source each).
+
+title: "Kekerasan Penyidikan dalam Kasus Marsinah: Catatan bagi Revisi KUHAP"
+lang: "id"
+publisher: "Taratsa"
+rights: "Hak cipta atas teks laporan berada pada Yayasan Lembaga Bantuan Hukum Indonesia (YLBHI) dan/atau pemegang hak masing-masing. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+source: "https://pustaka.taratsa.id/book/1266/"
+
+# Standard Ebooks edition (--steps se) reads the same file: publisher, source (one or a list), creator (aut),
+# producer (dc:contributor, role bkp). Title/subtitle/abstract/subjects of the SE edition stay in book.json 'se'.
+producer: "Taratsa"
+
+creator:
+  - role: "aut"
+    text: "Tim Penulis YLBHI"
