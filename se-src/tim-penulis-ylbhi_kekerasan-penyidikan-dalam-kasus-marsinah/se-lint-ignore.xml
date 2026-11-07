@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore code="s-023">
+			<reason>Judul berbahasa Indonesia; kapitalisasi judul gaya Inggris dari `se titlecase` tidak berlaku.</reason>
+		</ignore>
+		<ignore code="t-029">
+			<reason>Titik diikuti huruf kecil berasal dari hasil OCR (kemungkinan koma terbaca titik) dan tidak dapat dipastikan tanpa pindaian; teks tidak diubah.</reason>
+		</ignore>
+		<ignore code="t-057">
+			<reason>Paragraf berawal huruf kecil karena terpotong batas halaman pindaian; tidak digabung karena paragraf sebelumnya berakhir dengan tanda baca atau berada di halaman lain.</reason>
+		</ignore>
+		<ignore code="t-077">
+			<reason>Tanda baca diikuti kutip pembuka tanpa spasi di hasil OCR; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-002">
+			<reason>Tanda baca ganda dari hasil OCR; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-003">
+			<reason>Paragraf tanpa tanda baca akhir: judul daftar isi, nomor halaman, serta paragraf terpotong batas halaman pindaian; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-005">
+			<reason>Tanda baca diikuti huruf kecil dari hasil OCR; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-009">
+			<reason>Paragraf berawal dengan kutip di naskah sumber (kutipan dan catatan kaki); dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-012">
+			<reason>Kutipan bahasa Inggris dari sumber hukum asing dengan tanda baca asli; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-016">
+			<reason>Titik berurutan dari hasil OCR atau tanda elipsis tercetak; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-030">
+			<reason>Kutipan berawal huruf kecil di naskah sumber; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-034">
+			<reason>Titik di dalam kata berasal dari hasil OCR atau singkatan nama; dipertahankan apa adanya.</reason>
+		</ignore>
+	</file>
+	<file path="endnotes.xhtml">
+		<ignore code="m-033">
+			<reason>Catatan akhir berasal dari catatan kaki yang tercetak di naskah sumber, bukan anotasi oleh pembuat edisi digital.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
