@@ -12,7 +12,7 @@ oleh
 
 Edisi digital ini disusun oleh  
 **Taratsa**  
-dari pindaian PDF laporan Seri Laporan Kasus YLBHI, Desember 1995.
+dari hasil digitalisasi [Seri Laporan Kasus Kekerasan Penyidikan dalam Kasus Marsinah yang diterbitkan oleh Yayasan Lembaga Bantuan Hukum Indonesia (YLBHI), Desember 1995](https://pustaka.taratsa.id/book/1266/)
 
 Sampul menggunakan huruf  
 <b epub:type="se:name.visual-art.typeface">League Spartan</b>,  
